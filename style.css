@@ -12,7 +12,7 @@ h1{
 
 .circle {
     width: 150px;
-    height: 150;
+    height: 150px;
     margin: auto;
 border-radius: 50%;
 opacity: 0.5;
